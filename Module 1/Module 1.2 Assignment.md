@@ -1,4 +1,4 @@
-For the Module 1.2 Assignment, you will open up your command line (called `Shell` in Replit) and complete the following:
+For the Module 1.2 Assignment, you will open up your command line (called a terminal in VS Code) and complete the following:
 
 - [ ] Create a directory using the command `mkdir`
 - [ ] In the directory you created initialize Git using `git init`
@@ -6,7 +6,7 @@ For the Module 1.2 Assignment, you will open up your command line (called `Shell
 - [ ] Make sure README.md is in your _Working Directory_ by checking your status with `git status`
 - [ ] Move README.md from the _Working Directory_ to the _Staging Area_ by using `git add`
 - [ ] Make sure README.md is in your _Staging Area_ by checking your status with `git status`
-- [ ] Commit README.md to your repository using `git commit`
+- [ ] Commit README.md to your repository using `git commit -m "[Your commit message]`
 - [ ] Make sure your _Working Directory_ and _Staging Area_ are clean with `git status`
 - [ ] Make sure your commit has been logged into your repository by using `git log`
 
