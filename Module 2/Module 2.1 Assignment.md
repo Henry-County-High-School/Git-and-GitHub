@@ -14,6 +14,7 @@ $ git clone https://github.com/YOUR-REPOSITORY.git
 ```
 
 3. After the repository has successfully cloned to your machine, type `ls` in your terminal to view the newly cloned repository in your machine’s directory.
+4. Move into the new git repo directory using the command `cd [YOUR-REPOSITORY]`
 
 ## Submission
 To submit this assignment, create an issue titled `Module 2.1 Assignment` in this repository. In the issue, provide a screenshot of your command line showing the commands you used to complete this assignment, then proceed to the next section in this module.
